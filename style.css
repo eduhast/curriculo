@@ -1,0 +1,29 @@
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo{
+	text-align: center;
+	background: #CCCCCC;
+	border: 1px solid #000000;
+}
+
+.dados {
+	font-size: 2;
+	padding-left: 20px;
+	
+}
+
+.divisao {
+	background: #FFFFFF;
+	padding: 5px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;		
+}
+
+.bandeira {
+	width: 2%;
+}
